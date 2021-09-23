@@ -1,0 +1,15 @@
+window 11 rdp
+
+
+link..
+https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1
+
+
+
+code
+
+sudo su -
+wget -O Katacoda_Windows11SuperLite.sh https://bit.ly/2URPD7y
+chmod +x Katacoda_Windows11SuperLite.sh
+./Katacoda_Windows11SuperLite.sh
+
